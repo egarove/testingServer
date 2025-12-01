@@ -1,0 +1,39 @@
+{
+  "animales": [
+    {
+      "esp": "Elefante africano",
+      "peso_kg": 6000,
+      "patas": 4,
+      "tipo": "mamifero",
+      "vida": 70
+    },
+    {
+      "esp": "Aguila real",
+      "peso_kg": 6,
+      "patas": 2,
+      "tipo": "ave",
+      "vida": 25
+    },
+    {
+      "esp": "Tiburon blanco",
+      "peso_kg": 1100,
+      "patas": 0,
+      "tipo": "pez",
+      "vida": 70
+    },
+    {
+      "esp": "Cobra real",
+      "peso_kg": 6,
+      "patas": 0,
+      "tipo": "reptil",
+      "vida": 20
+    },
+    {
+      "esp": "Canguro rojo",
+      "peso_kg": 85,
+      "patas": 2,
+      "tipo": "mamifero",
+      "vida": 23
+    }
+  ]
+}
